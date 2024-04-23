@@ -57,7 +57,6 @@ html,body{
 	border-style: solid;
 	background-color: white;
 	background-clip:padding-box;
-	/*background-origin tem o mesmo conceito porém serve para imagens.*/
 }
 
 .form h2{
