@@ -166,7 +166,7 @@ html,body{
 	padding:90px 0;
 }
 
-.section-1 h2{
+.section-1 h2,h4{
 	text-align: center;
 	color: #462663;
 	font-weight: normal;
