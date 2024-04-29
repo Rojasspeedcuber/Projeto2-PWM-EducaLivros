@@ -4,10 +4,17 @@
 	box-sizing: border-box;
 }
 
+h6{
+	color: #462663;
+}
+
 html,body{
 	height: 100%;
 }
 
+#duvida{
+	resize: none;
+}
 
 .clear{
 	clear: both;
