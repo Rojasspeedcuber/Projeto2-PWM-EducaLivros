@@ -232,6 +232,22 @@ html,body{
 	width:70px;
 }
 
+.botaoc{
+	background: #0066A2;
+	color: black;
+	border-style: outset;
+	border-color: #0066A2;
+	height: 50px;
+	width: 100px;
+	font: bold15px arial,sans-serif;
+	text-shadow: none;
+}
+
+.botaoc:hover{
+	color:red;
+
+}
+
 .footer{
 	/*clear:both;*/
 	border-top:2px solid #888888;
